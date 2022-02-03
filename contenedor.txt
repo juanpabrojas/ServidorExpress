@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Nintendo 64",
+    "price": 1500,
+    "thumbnail": "http://www.nintendo.com/n64",
+    "id": 1
+  },
+  {
+    "title": "Nintendo Wii",
+    "price": 2500,
+    "thumbnail": "http://www.nintendo.com/nwii",
+    "id": 2
+  },
+  {
+    "title": "Nintendo DS",
+    "price": 1000,
+    "thumbnail": "http://www.nintendo.com/nds",
+    "id": 3
+  },
+]
